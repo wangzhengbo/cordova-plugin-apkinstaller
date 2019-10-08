@@ -4,8 +4,8 @@ module.exports = function(context) {
 
     var APPLICATION_CLASS = "com.example.template.MyApplication";
 
-    var fs = context.requireCordovaModule('fs'),
-        path = context.requireCordovaModule('path');
+    var fs = require('fs'),
+        path = require('path');
 
     var platformRoot = path.join(context.opts.projectRoot, 'platforms/android');
     var manifestFile = path.join(platformRoot, 'AndroidManifest.xml');
