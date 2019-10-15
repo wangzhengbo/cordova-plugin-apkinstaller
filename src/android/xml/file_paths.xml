@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <paths xmlns:android="http://schemas.android.com/apk/res/android">
-    <external-path name="provider_files" path="Download/"/>
+    <!-- https://blog.csdn.net/leilifengxingmw/article/details/57405908 -->
+    <!-- https://www.jianshu.com/p/121bbb07cb07 -->
+    <external-cache-path name="provider_files" path="./"/>
 </paths>
