@@ -1,9 +1,9 @@
 {
   "name": "cordova-plugin-android-installer2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "android apk install",
   "cordova": {
-    "id": "com.mycompany.installer",
+    "id": "cordova-plugin-android-installer2",
     "platforms": [
       "android"
     ]
