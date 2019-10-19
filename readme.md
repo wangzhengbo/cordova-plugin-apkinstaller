@@ -3,7 +3,7 @@ Cordova installer plugin for Android. The plugin reads apk file path, and instal
 
 ## install
 ```
-cordova plugin add cordova-plugin-apkinstaller
+cordova plugin add cordova-plugin-android-installer2
 ```
 
 ## usage
