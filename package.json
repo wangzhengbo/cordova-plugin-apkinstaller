@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shougao/cordova-plugin-apkinstaller.git"
+    "url": "git+https://github.com/wangzhengbo/cordova-plugin-apkinstaller.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -19,7 +19,7 @@
   "author": "zqc",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/shougao/cordova-plugin-apkinstaller/issues"
+    "url": "https://github.com/wangzhengbo/cordova-plugin-apkinstaller/issues"
   },
-  "homepage": "https://github.com/shougao/cordova-plugin-apkinstaller#readme"
+  "homepage": "https://github.com/wangzhengbo/cordova-plugin-apkinstaller#readme"
 }
